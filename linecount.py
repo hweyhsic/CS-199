@@ -1,4 +1,3 @@
-
 f = open('ecoli.txt', 'r' )
 
 linecount = 0
